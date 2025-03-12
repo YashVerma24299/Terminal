@@ -1,0 +1,58 @@
+BY TERMINAL
+-> Folder and File are created.
+-> Packages install.
+-> Speed is high.
+-> Hidden files are also view in terminal that are not easily visible in computer.
+
+
+In Windows -> Command Line
+Terminal -> A type of Command Line present in (MAC)
+
+
+Shell -> A program running on terminal.
+
+
+Bash -> A popular Shell on MAC/LINUX
+
+
+Basic Commands
+1. ls -> list all files of current folder
+   /C/Users/SSC -> isme jaakr ls krna
+
+2. pwd -> print working directory
+   where am I?
+
+3. clear -> Clear Screen
+4. / -> Root directory
+5. ~ -> Home directory
+
+
+Navigation Commands
+1. cd -> change directory
+   cd      -inside
+   cd Desktop    //one step inside
+   cd Users/SSC  //two or many step inside
+
+   cd ..   -outside/back button
+   cd ..    //one step back
+   cd ../..  //two or many step back
+
+
+Making directories
+1. mkdir -> make directory
+   Folder or File create in real
+
+
+Flags
+1. ls -l  -> show extra information
+
+
+Touch Commands
+1. touch filename -> created a file inside current folder
+   touch index.html  -> index.html file created inside the current folder
+
+
+Delete file & folders (ek baar jo delete -> vo vaapas recover nhi hoo)
+1. rm      -> remove files
+2. rmdir   -> remove empty folders
+3. rm -rf  -> remove any folder

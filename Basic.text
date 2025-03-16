@@ -45,6 +45,7 @@ Making directories
 
 Flags
 1. ls -l  -> show extra information
+2. ls -a  -> show hidden files
 
 
 Touch Commands
